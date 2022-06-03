@@ -1,5 +1,5 @@
-# ARMAN
 
+# Email Bomber
 
 Use this tool to spam a person's email
 
@@ -10,27 +10,13 @@ Use this tool to spam a person's email
 [You can enable it there](https://myaccount.google.com/lesssecureapps)
 
 Usage for Python 2 : 
-
 ```bash
-
-$ git clone https://github.com/mohinparamasivam/Email_Bomber.git
-
+$ git clone https://github.com/armanhack-new/ARMAN.git
 $ cd Email_Bomber
-
 $ python2 emailbomber.py
 
-```
 
-</br>Usage for Python 3 : 
-
-```bash
-
-$ git clone https://github.com/mohinparamasivam/Email_Bomber.git
-
-$ cd Email_Bomber
-
-$ python3 emailbomber3.py
-
+contract me : www.facebook.com/armanbadboy1
 ```
 
 If you have issues DM or mention [Omicron166 on twitter](https://twitter.com/omicron166)
