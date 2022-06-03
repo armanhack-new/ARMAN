@@ -12,8 +12,8 @@ Use this tool to spam a person's email
 Usage for Python 2 : 
 ```bash
 $ git clone https://github.com/armanhack-new/ARMAN.git
-$ cd Email_Bomber
-$ python2 emailbomber.py
+$ cd ARMAN
+$ python2 Bomb.py
 
 
 contract me : www.facebook.com/armanbadboy1
